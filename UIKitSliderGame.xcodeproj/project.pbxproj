@@ -11,6 +11,7 @@
 		A5A87116283168DE00C9558D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5A87115283168DE00C9558D /* ContentView.swift */; };
 		A5A87118283168DF00C9558D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5A87117283168DF00C9558D /* Assets.xcassets */; };
 		A5A8711B283168DF00C9558D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5A8711A283168DF00C9558D /* Preview Assets.xcassets */; };
+		A5A871222831698200C9558D /* CustomSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5A871212831698200C9558D /* CustomSlider.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		A5A87115283168DE00C9558D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A5A87117283168DF00C9558D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A5A8711A283168DF00C9558D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A5A871212831698200C9558D /* CustomSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSlider.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				A5A87113283168DE00C9558D /* UIKitSliderGameApp.swift */,
 				A5A87115283168DE00C9558D /* ContentView.swift */,
+				A5A871212831698200C9558D /* CustomSlider.swift */,
 				A5A87117283168DF00C9558D /* Assets.xcassets */,
 				A5A87119283168DF00C9558D /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A5A871222831698200C9558D /* CustomSlider.swift in Sources */,
 				A5A87116283168DE00C9558D /* ContentView.swift in Sources */,
 				A5A87114283168DE00C9558D /* UIKitSliderGameApp.swift in Sources */,
 			);
